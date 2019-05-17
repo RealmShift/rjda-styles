@@ -1,0 +1,12 @@
+input.btTxt .submit
+{
+    background: #e50007 !important;
+    color: white !important;
+    font-weight: 500 !important;
+    float: left !important;
+    width: 200px !important;
+}
+input.btTxt:hover
+{
+    background-color: black !important;
+}
